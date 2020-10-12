@@ -1,7 +1,7 @@
 # Exercises for the Cloud Computing course from the master's degree in computer engineering (UGR).
 
 ## Table of content
-- [Cloud software architectures](exercises/cloud-based-architectures.md)
+- [Cloud software architectures](exercises/cloud-software-architectures.md)
 - Test based development
 - Microservices
 - Using containers
