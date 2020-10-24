@@ -56,3 +56,9 @@ script:
 Successful builds in [TravisCI#MasterDo](https://travis-ci.com/github/harvestcore/masterdo/builds)
 
 ![package](imgs/travis.png)
+
+In [this other repository](https://github.com/harvestcore/tfg/actions) there are three CI workflows configured to be run on GitHub Actions. These are:
+
+- [backend_tests.yml](https://github.com/harvestcore/tfg/blob/develop/.github/workflows/backend_tests.yml)
+- [frontend_tests.yml](https://github.com/harvestcore/tfg/blob/develop/.github/workflows/frontend_tests.yml)
+- [e2e_tests.yml](https://github.com/harvestcore/tfg/blob/develop/.github/workflows/e2e_tests.yml)
