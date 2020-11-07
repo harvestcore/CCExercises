@@ -1,0 +1,3 @@
+FROM centos:latest
+
+CMD ["echo", "Hello world!"]

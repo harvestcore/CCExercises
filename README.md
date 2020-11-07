@@ -4,8 +4,8 @@
 
 - [Cloud software architectures](exercises/cloud-software-architectures.md)
 - [Test based development](exercises/test_based_development.md)
+- [Using containers](exercises/using_containers/using_containers.md)
 - Microservices
-- Using containers
 - Configuration management
 - Creation of reproducible virtual infrastructures
 - Orchestration of virtual machines
