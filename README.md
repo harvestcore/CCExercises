@@ -6,7 +6,7 @@
 - [Test based development](exercises/test_based_development.md)
 - [Using containers](exercises/using_containers/using_containers.md)
 - [Microservices](exercises/microservices/microservices.md)
-- Configuration management
+- [Configuration management](exercises/configuration_management/configuration_management.md)
 - Creation of reproducible virtual infrastructures
 - Orchestration of virtual machines
 
