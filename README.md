@@ -7,8 +7,8 @@
 - [Using containers](exercises/using_containers/using_containers.md)
 - [Microservices](exercises/microservices/microservices.md)
 - [Configuration management](exercises/configuration_management/configuration_management.md)
-- Creation of reproducible virtual infrastructures
-- Orchestration of virtual machines
+- [Creation of reproducible virtual infrastructures](exercises/virtual_infra.md)
+- [Orchestration of virtual machines](exercises/vms.md)
 
 ## Other info
 
